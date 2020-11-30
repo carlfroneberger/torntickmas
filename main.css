@@ -15,7 +15,6 @@
   flex-basis: 0;
   
   color: #fff;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   padding: 10px;
 
   display: flex;
@@ -63,11 +62,19 @@
   margin-right: 28.5714285714%;
 }
 
+.title {
+  color: #fff;
+  font-size: 3em;
+  text-align: center;
+  width: 100%;
+}
+
 /* OTHER STYLES */
 
 html, body {
   height: 100%;
   background-color: #7faddb;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 /* .month {
